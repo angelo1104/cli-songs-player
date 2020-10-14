@@ -1,0 +1,15 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishika & Angelo",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^7.3.0"
+  }
+}
